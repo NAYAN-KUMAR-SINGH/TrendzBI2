@@ -1,7 +1,31 @@
-TrendzBI - Restaurant Insights Dashboard<br/><p align="center"><img src="https://www.google.com/search?q=https://placehold.co/800x450/115e59/f0fdfa%3Ftext%3DTrendzBI" alt="TrendzBI Banner" style="border-radius: 12px;"/></p><br/>A sleek, modern, and fully responsive web application built with React and Tailwind CSS. TrendzBI provides restaurant owners with powerful, data-driven insights to make informed decisions about market trends, menu optimization, and profitability. This dashboard is inspired by professional analytics platforms like Zato Trends.🚀 Live Demo & AccessYou can access the project in a couple of ways:1. Direct Preview Link (Temporary):➡️ Click here for a direct preview(Note: This is a temporary link from a running sandbox and may expire soon.)2. Persistent CodeSandbox Project:➡️ Click here to view the project on CodeSandbox(This is the permanent link to the project's source code and editor.)How to AccessLive Demo: Simply click one of the links above to open the application in your browser.Running Locally:You can fork the sandbox on CodeSandbox to create your own editable version.Alternatively, you can download the project from GitHub/CodeSandbox, navigate to the folder in your terminal, and run:# Install all the necessary packages
-npm install
+# TrendzBI - Restaurant Insights Dashboard
 
-# Start the development server
-npm run dev
+![TrendzBI Banner](https://placehold.co/800x450/115e59/f0fdfa?text=TrendzBI)
 
-✨ Key FeaturesMulti-Page Navigation: A complete dashboard experience with dedicated pages for Home, Market Analysis, Menu Insights, and more.Dynamic Data Filtering: Interactive filters for location and date range that simulate real-time data updates.Fully Responsive Design: A flawless viewing experience on all devices, from mobile phones to desktops, with a collapsible sidebar.Dark & Light Mode: A beautiful theme switcher for user comfort, saving the preference.Interactive UI: Sleek loaders, custom-styled components, and smooth transitions for a professional feel.Authentication Flow: Includes beautifully designed Sign In and Sign Up pages to simulate a complete user journey.💻 Tech Stack & ToolsThis project is built with a modern, efficient stack to ensure a great developer and user experience.Core Framework: React.js for building the dynamic and interactive user interface.Build Tool: Vite for an extremely fast and lean development experience and optimized builds.Styling: Tailwind CSS is used for its utility-first approach to create a responsive and custom design without writing traditional CSS.State Management: React Hooks (useState, useEffect) are used for managing all component-level state and side effects.Development & Deployment:Node.js as the underlying runtime environment.CodeSandbox for live cloud-based development, collaboration, and instant deployment.<p align="center">Created with ❤️ using <a href="https://codesandbox.io/">CodeSandbox</a>.</p>
+TrendzBI is a sleek, modern, and fully responsive web application built with **React** and **Tailwind CSS**. It provides restaurant owners with powerful, data-driven insights to make informed decisions about market trends, menu optimization, and profitability. This dashboard is inspired by professional analytics platforms like Zomato Trends.  
+
+---
+
+##  Live Demo & Code Access
+
+You can explore TrendzBI in the following ways:
+
+1. **Direct Preview (Temporary):**  
+   ➡️ [Open Live Demo](https://h6cj5g-5173.csb.app/)  
+   *(Temporary preview link hosted on CodeSandbox.)*
+
+2. **CodeSandbox Repository (Persistent):**  
+   ➡️ [View & Edit Project](https://codesandbox.io/p/github/NAYAN-KUMAR-SINGH/TrendzBI2)  
+   *(Full source code hosted on CodeSandbox, editable in real-time.)*
+
+---
+
+##  Running Locally
+
+To run TrendzBI locally, follow these steps:
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/NAYAN-KUMAR-SINGH/TrendzBI2.git
+cd TrendzBI2
